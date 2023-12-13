@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
+            Color(red: 50, green: 80, blue: 0)
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
